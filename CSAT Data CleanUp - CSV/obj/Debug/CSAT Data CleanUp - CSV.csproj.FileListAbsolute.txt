@@ -1,0 +1,11 @@
+D:\Projects\CSAT Data CleanUp - CSV\CSAT Data CleanUp - CSV\obj\Debug\CSAT Data CleanUp - CSV.csproj.AssemblyReference.cache
+D:\Projects\CSAT Data CleanUp - CSV\CSAT Data CleanUp - CSV\obj\Debug\CSAT Data CleanUp - CSV.csproj.ResolveComReference.cache
+D:\Projects\CSAT Data CleanUp - CSV\CSAT Data CleanUp - CSV\obj\Debug\CSAT_Data_CleanUp___CSV.Form1.resources
+D:\Projects\CSAT Data CleanUp - CSV\CSAT Data CleanUp - CSV\obj\Debug\CSAT_Data_CleanUp___CSV.Properties.Resources.resources
+D:\Projects\CSAT Data CleanUp - CSV\CSAT Data CleanUp - CSV\obj\Debug\CSAT Data CleanUp - CSV.csproj.GenerateResource.cache
+D:\Projects\CSAT Data CleanUp - CSV\CSAT Data CleanUp - CSV\obj\Debug\CSAT Data CleanUp - CSV.csproj.CoreCompileInputs.cache
+D:\Projects\CSAT Data CleanUp - CSV\CSAT Data CleanUp - CSV\bin\Debug\CSAT Data CleanUp - CSV.exe.config
+D:\Projects\CSAT Data CleanUp - CSV\CSAT Data CleanUp - CSV\bin\Debug\CSAT Data CleanUp - CSV.exe
+D:\Projects\CSAT Data CleanUp - CSV\CSAT Data CleanUp - CSV\bin\Debug\CSAT Data CleanUp - CSV.pdb
+D:\Projects\CSAT Data CleanUp - CSV\CSAT Data CleanUp - CSV\obj\Debug\CSAT Data CleanUp - CSV.exe
+D:\Projects\CSAT Data CleanUp - CSV\CSAT Data CleanUp - CSV\obj\Debug\CSAT Data CleanUp - CSV.pdb
